@@ -1,0 +1,4 @@
+﻿document,Tareas realizadas por un usuario de tesorería,Alumne
+imatge,brush,"un raspall",1024,1024
+video,Wildlife,Windows,Documental,30
+canço,01 Sowing Season,Brand New,The Devil and God Are Raging Inside Me,Alternative,270
